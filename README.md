@@ -10,11 +10,11 @@ A list of three of my favorite movies, each highlighted with a title and short s
 Simple, readable formatting using HTML elements to present content clearly.
 Project Structure
 HTML Elements Used:
-<h1>: For the main page title, "The Best Movies According to Me!"
-<h2>: For the subtitle, "My Top 3 Movies of All Time!"
-<hr>: A horizontal line to visually separate the main title/subtitle from the movie list.
-<h3>: For each movie title.
-<p>: For each movie description, providing context or a brief plot summary.
+h1: For the main page title, "The Best Movies According to Me!"
+h2: For the subtitle, "My Top 3 Movies of All Time!"
+hr: A horizontal line to visually separate the main title/subtitle from the movie list.
+h3: For each movie title.
+p: For each movie description, providing context or a brief plot summary.
 Movie Descriptions
 The page showcases these three movies:
 
